@@ -1,5 +1,5 @@
 <div id="header" align="left">
-  <h1>Hello there 👋</h1>
+  <h1>Hello There 👋</h1>
    <!-- <img src="[insert an image of yourself or something you like]" width="200"  --!>
 
   

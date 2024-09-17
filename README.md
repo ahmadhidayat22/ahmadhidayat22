@@ -19,7 +19,7 @@
   <br>
   
   <div>
-    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ahmadhidayat22/b55bae22-c65e-4a1f-a8df-2ec88a6222d7.png" style="width:400px" /></a>
+    <a href="https://wakatime.com"><img src="https://wakatime.com/share/@ahmadhidayat22/b55bae22-c65e-4a1f-a8df-2ec88a6222d7.png" style="width:200px" /></a>
   </div>
 </div>
 
